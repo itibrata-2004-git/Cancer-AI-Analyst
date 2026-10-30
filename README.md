@@ -209,6 +209,20 @@ Potential future enhancements include:
 
 These are possible future improvements, not claims that they are already implemented.
 
+## DASHBOARD
+## MAIN DASHBOARD 
+![Cancer AI Analyst Dashboard](<img width="1262" height="715" alt="Page-1 Dashboard" src="https://github.com/user-attachments/assets/4ff52676-9393-4a62-80dd-6df28c4a9b66" />
+)
+
+![Page-2](<img width="1258" height="712" alt="Page-2 Dashboard" src="https://github.com/user-attachments/assets/f4a99de2-fa49-4362-8af3-98eda126feab" />)
+
+![Page-3](<img width="1262" height="705" alt="Page-3 Dashboard" src="https://github.com/user-attachments/assets/dd83e999-c985-4d12-a760-c0e46efc6fbf" />)
+
+![Tool Tip](<img width="351" height="258" alt="Tool Tip" src="https://github.com/user-attachments/assets/feb189c8-64a9-43f9-ab87-4da57bf8eb97" />)
+
+
+
+
 ## 👨‍💻 Author
 
 **Itibrata Sahoo**
