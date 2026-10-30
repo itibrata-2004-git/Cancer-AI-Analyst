@@ -218,7 +218,34 @@ These are possible future improvements, not claims that they are already impleme
 
 ![Page-3](<img width="1262" height="705" alt="Page-3 Dashboard" src="https://github.com/user-attachments/assets/dd83e999-c985-4d12-a760-c0e46efc6fbf" />)
 
-![Tool Tip]("F:\DS PROJECT\Cancer AI Analyst\Cancer AI Analyst\dashboard\image\Tool Tip.png")
+![Tool Tip](<img width="351" height="258" alt="Tool Tip" src="https://github.com/user-attachments/assets/387e12e2-7a88-44f5-8dbb-1726b3142036" />
+)
+
+## 📊 Dashboard Screenshots
+
+### Page 1 — Main Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ff52676-9393-4a62-80dd-6df28c4a9b66" alt="Cancer AI Analyst - Page 1 Dashboard" width="100%">
+</p>
+
+### Page 2 — Dashboard Analysis
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4a99de2-fa49-4362-8af3-98eda126feab" alt="Cancer AI Analyst - Page 2 Dashboard" width="100%">
+</p>
+
+### Page 3 — Dashboard Analysis
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd83e999-c985-4d12-a760-c0e46efc6fbf" alt="Cancer AI Analyst - Page 3 Dashboard" width="100%">
+</p>
+
+### Interactive Tool Tip
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/387e12e2-7a88-44f5-8dbb-1726b3142036" alt="Cancer AI Analyst - Tool Tip" width="450">
+</p>
 
 
 
