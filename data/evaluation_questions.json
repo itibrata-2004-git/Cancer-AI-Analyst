@@ -1,0 +1,43 @@
+
+[
+    {
+        "question": "What are the major risk factors for cancer?",
+        "expected_topic": "Cancer risk factors"
+    },
+    {
+        "question": "What cancer prevention strategies are discussed?",
+        "expected_topic": "Cancer prevention"
+    },
+    {
+        "question": "What methods are used to diagnose cancer?",
+        "expected_topic": "Cancer diagnosis"
+    },
+    {
+        "question": "What are the stages of cancer?",
+        "expected_topic": "Cancer staging"
+    },
+    {
+        "question": "What information is provided about cancer treatment?",
+        "expected_topic": "Cancer treatment"
+    },
+    {
+        "question": "What are the early warning signs and symptoms of cancer?",
+        "expected_topic": "Early symptoms"
+    },
+    {
+        "question": "What lifestyle changes can help reduce the risk of cancer?",
+        "expected_topic": "Cancer prevention"
+    },
+    {
+        "question": "What is the difference between benign and malignant tumors?",
+        "expected_topic": "Tumor classification"
+    },
+    {
+        "question": "How do doctors determine whether cancer has spread to other parts of the body?",
+        "expected_topic": "Cancer metastasis"
+    },
+    {
+        "question": "What is the role of early detection and screening in cancer care?",
+        "expected_topic": "Screening and early detection"
+    }
+]

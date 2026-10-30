@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What are the major risk factors for cancer?",
+    "expected_topic": "Cancer risk factors"
+  },
+  {
+    "question": "What cancer prevention strategies are discussed?",
+    "expected_topic": "Cancer prevention"
+  },
+  {
+    "question": "What are the common methods used to diagnose cancer?",
+    "expected_topic": "Cancer diagnosis"
+  },
+  {
+    "question": "What are the stages of cancer?",
+    "expected_topic": "Cancer staging"
+  },
+  {
+    "question": "What information does the document provide about cancer treatment?",
+    "expected_topic": "Cancer treatment"
+  }
+]
