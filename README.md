@@ -218,7 +218,7 @@ These are possible future improvements, not claims that they are already impleme
 
 ![Page-3](<img width="1262" height="705" alt="Page-3 Dashboard" src="https://github.com/user-attachments/assets/dd83e999-c985-4d12-a760-c0e46efc6fbf" />)
 
-![Tool Tip](<img width="351" height="258" alt="Tool Tip" src="https://github.com/user-attachments/assets/feb189c8-64a9-43f9-ab87-4da57bf8eb97" />)
+![Tool Tip]("F:\DS PROJECT\Cancer AI Analyst\Cancer AI Analyst\dashboard\image\Tool Tip.png")
 
 
 
