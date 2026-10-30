@@ -235,6 +235,32 @@ These are possible future improvements, not claims that they are already impleme
   <img src="https://github.com/user-attachments/assets/387e12e2-7a88-44f5-8dbb-1726b3142036" alt="Cancer AI Analyst - Tool Tip" width="450">
 </p>
 
+## 📸 Project Images
+
+### 🖥️ Application Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a1fa0b6-4047-4a23-9493-b88bf5fbd4f3" alt="Cancer AI Analyst - Application Dashboard" width="100%">
+</p>
+
+### 📊 Data Analysis
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c241bbe3-ee29-4976-89e8-cd56647ae8eb" alt="Cancer AI Analyst - Data Analysis" width="100%">
+</p>
+
+### 📈 Analytical Visualization
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f269b636-674f-47c1-9e2d-fad2aab3c5b5" alt="Cancer AI Analyst - Analytical Visualization" width="100%">
+</p>
+
+### 🔍 Detailed Analysis
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0076e8f-9d25-4c91-8660-7d02cf852248" alt="Cancer AI Analyst - Detailed Analysis" width="100%">
+</p>
+
 
 
 
